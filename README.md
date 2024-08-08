@@ -1,6 +1,8 @@
 ## Validation of a Microfluidic Device Prototype for Cancer Detection and Identification: Circulating Tumor Cells Classification Based on Cell Trajectory Analysis Leveraging Cell-Based Modeling and Machine Learning
 <hr>
 
+![alt text](model_architecture/readme_banner.png "GRU Architecture")
+
 [![Python](https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white)](https://www.python.org/)
 [![Numpy](https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white)](https://numpy.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white)](https://pandas.pydata.org/)
@@ -16,9 +18,7 @@
 <hr>
 
 ## Abstract
-```
-Microfluidic devices (MDs) offer an advanced approach for detecting circulating tumor cells (CTCs), improving detection through targeted methods and visual inspection. Despite these advancements, existing techniques often produce heterogeneous CTC populations, requiring further processing for thorough analysis and phenotype identification. This study investigates the use of a hyperuniform micropost MD for CTC classification. We integrate mathematical modeling of fluid-structure interactions within a simulated microfluidic channel with machine learning techniques to enhance classification accuracy.
-```
+>Microfluidic devices (MDs) offer an advanced approach for detecting circulating tumor cells (CTCs), improving detection through targeted methods and visual inspection. Despite these advancements, existing techniques often produce heterogeneous CTC populations, requiring further processing for thorough analysis and phenotype identification. This study investigates the use of a hyperuniform micropost MD for CTC classification. We integrate mathematical modeling of fluid-structure interactions within a simulated microfluidic channel with machine learning techniques to enhance classification accuracy.
 <hr>
 
 ## Project Installation and Run
