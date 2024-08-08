@@ -110,8 +110,8 @@ output = Dense(2, activation='softmax')(x)
 
 ## Citing
 ```
-@misc{Solar Radiation AI,
-  author = {Rifat Rejuan1Y, Eugenio Aulisa1‡, Wei Li3‡, Travis Thompson1‡, Sanjoy Kumar¤‡, Suncica Canic2‡, Yifan Wang1Y*},
+@misc{vMDpcDI: CTC Modeling,
+  author = {Rifat Rejuan1, Eugenio Aulisa1, Wei Li3‡, Travis Thompson1, Sanjoy Kumar, Suncica Canic, Yifan Wang1},
   title = {Validation of a Microfluidic Device Prototype for Cancer Detection and Identification: Circulating Tumor Cells Classification Based on Cell Trajectory Analysis Leveraging Cell-Based Modeling and Machine Learning},
   year = {2024},
   publisher = {Will be updated},
